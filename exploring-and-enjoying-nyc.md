@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Exploring and Enjoying NYC"
 permalink: /exploring-and-enjoying-nyc
+---
 
 Exploring and Enjoying NYC
 ====================
