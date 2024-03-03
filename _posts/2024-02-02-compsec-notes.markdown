@@ -6,11 +6,15 @@ categories: Compsec CISSP CISA CERT
 ---
 CIA or Confidentiality, Integrity and Availabily
 ====================
+![CIA Triad](https://thumbs2.imgbox.com/bc/d8/jl0ZYkOd_t.jpg "CIA Triad")
+
 
 Three corners, each broken down into aspects
 ---------------------
 
-### Confidentiality may be viewed through 8 spects
+[URL=https://imgbox.com/jl0ZYkOd][IMG][/IMG][/URL]
+
+### Confidentiality may be viewed through 8 aspects
  - Sensitivity
  - Discretion
  - Criticality
