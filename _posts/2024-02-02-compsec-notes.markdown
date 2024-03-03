@@ -12,8 +12,6 @@ CIA or Confidentiality, Integrity and Availabily
 Three corners, each broken down into aspects
 ---------------------
 
-[URL=https://imgbox.com/jl0ZYkOd][IMG][/IMG][/URL]
-
 ### Confidentiality may be viewed through 8 aspects
  - Sensitivity
  - Discretion
