@@ -37,4 +37,4 @@ Three corners, each broken down into aspects
  - Timeliness
 
 ## CIS Benchmarks
- - [Guides for spefic systems|https://www.cisecurity.org/benchmark]
+ - [Guides for specific systems](https://www.cisecurity.org/benchmark)
